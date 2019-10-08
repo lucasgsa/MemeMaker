@@ -1,0 +1,13 @@
+#Crie seus memes makers no formato seguinte -> 
+# +ID
+# 60,40|250,420
+# 30,10|900,230 (obs: esses valores são em porcentagem, e os de depois da barra em pixels)
+
++bobesponja.jpg
+1,50|310,190
+19,50|310,240
+
++memeabacate.jpg
+20,40|100,100
+
+>FIM<
